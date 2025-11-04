@@ -1,4 +1,4 @@
-@extends('layout')
+@extends('layout/home')
 @section('body')
   <!-- ================ start banner area ================= -->	
   <section class="blog-banner-area" id="blog">

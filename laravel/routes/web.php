@@ -39,3 +39,14 @@ Route::get('/register', function () {
 Route::get('/tracking', function () {
     return view('tracking');
 })->name('tracking');
+
+//////////////////
+Route::get('/admin', function () {
+    return view('admin');
+})->name('admin');
+Route::get('/admin/category', function () {
+    return view('admin/category/category-list');
+})->name('category-list');
+Route::get('/admin/product', function () {
+    return view('admin/product/product-list');
+})->name('product-list');

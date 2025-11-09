@@ -7,9 +7,9 @@
         <thead>
             <tr>
                 <th scope="col">#</th>
-                <th scope="col">First</th>
-                <th scope="col">Last</th>
-                <th scope="col">Handle</th>
+                <th scope="col">ten</th>
+                <th scope="col">gia</th>
+                <th scope="col">hang</th>
                 <th scope="col">View</th>
                 <th scope="col">Edit</th>
                 <th scope="col">Delete</th>
@@ -19,9 +19,9 @@
         <tbody>
             <tr>
                 <th scope="row">1</th>
-                <td>Mark</td>
-                <td>Otto</td>
-                <td>@mdo</td>
+                <td>chanel</td>
+                <td>500000</td>
+                <td>@cn</td>
 
                 <td><a href=""><i class="fa-solid fa-eye text-info"></i></a></td>
                 <td><a href=""><i class="fa-solid fa-pen-to-square text-warning"></i></a></td>
@@ -29,18 +29,18 @@
             </tr>
             <tr>
                 <th scope="row">2</th>
-                <td>Jacob</td>
-                <td>Thornton</td>
-                <td>@fat</td>
+                <td>versace</td>
+                <td>600000</td>
+                <td>@ver</td>
                 <td><a href=""><i class="fa-solid fa-eye text-info"></i></a></td>
                 <td><a href=""><i class="fa-solid fa-pen-to-square text-warning"></i></a></td>
                 <td><a href=""><i class="fa-solid fa-trash"></i></a></td>
             </tr>
             <tr>
                 <th scope="row">3</th>
-                <td>John</td>
-                <td>Doe</td>
-                <td>@social</td>
+                <td>gucci</td>
+                <td>60000</td>
+                <td>@gc</td>
                 <td><a href=""><i class="fa-solid fa-eye text-info"></i></a></td>
                 <td><a href=""><i class="fa-solid fa-pen-to-square text-warning"></i></a></td>
                 <td><a href=""><i class="fa-solid fa-trash"></i></a></td>
